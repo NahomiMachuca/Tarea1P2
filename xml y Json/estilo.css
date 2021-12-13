@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto;
+    background: /*para el fondo de cuadritos */
+    radial-gradient(rgb(241, 209, 209) 3px, transparent 4px),
+    radial-gradient(rgb(203, 211, 255) 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+  #fff;
+  background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+  background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+  
+   }
+h1{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+   }
+table {
+    margin: 0 auto;
+    font-size: large;
+    }
+      
+      
+td {
+    background-color: #c7e5fd;
+    border: 1px solid bisque;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    font-family:monospace;
+    }
+      
+th {
+    font-weight: bold;
+    border: 1px solid bisque;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 203, 203);
+    font-family: 'Courier New', Courier, monospace;
+    }
+

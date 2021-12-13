@@ -1,0 +1,112 @@
+var info_estudiantes = [
+    {
+        "id":1,
+        "cedula":"1316281136",
+        "nombre":"Nahomi Machuca",
+        "direccion":"Av.15 entre calles 13 y 14",
+        "telefono":"0983337459",
+        "correo":"nahomimachuca@gmail.com",
+        "curso":"Quinto Semestre",
+        "paralelo":"A"
+    },
+
+    {
+        "id":2,
+        "cedula":"1312435546",
+        "nombre":"Joshua Machuca",
+        "direccion":"Av.15 entre calles 13 y 14",
+        "telefono":"0998984327",
+        "correo":"joshuamachuca@gmail.com",
+        "curso":"Primer Semestre",
+        "paralelo":"C"
+    },
+
+    {
+        "id":3,
+        "cedula":"1322198786",
+        "nombre":"Mike Avalos",
+        "direccion":"Barrio 5 de junio",
+        "telefono":"0998712342",
+        "correo":"mike@gmail.com",
+        "curso":"Cuarto Semestre",
+        "paralelo":"A"
+    },
+
+    {
+        "id":4,
+        "cedula":"1398743321",
+        "nombre":"Melany Loor",
+        "direccion":"Ciudadela los Electricos",
+        "telefono":"0996364585",
+        "correo":"melanyloor@gmail.com",
+        "curso":"Quinto Semestre",
+        "paralelo":"A"
+    },
+
+    {
+        "id":5,
+        "cedula":"1309589776",
+        "nombre":"Matias Zamora",
+        "direccion":"Los Gavilanes",
+        "telefono":"0995423985",
+        "correo":"matiasz@gmail.com",
+        "curso":"Quinto Semestre",
+        "paralelo":"A"
+    },
+
+    {
+        "id":6,
+        "cedula":"1132786546",
+        "nombre":"Hector Fernandez",
+        "direccion":"Ciudadela terrazas del conde",
+        "telefono":"0987642351",
+        "correo":"hectorFer@gmail.com",
+        "curso":"Quinto Semestre",
+        "paralelo":"B"
+    },
+
+    {
+        "id":7,
+        "cedula":"1321786542",
+        "nombre":"Cesar Catagua",
+        "direccion":"Calle 13",
+        "telefono":"0991324573",
+        "correo":"cesarcatagua@gmail.com",
+        "curso":"Quinto Semestre",
+        "paralelo":"A"
+    },
+
+    {
+        "id":8,
+        "cedula":"1395622678",
+        "nombre":"Elias Mieles",
+        "direccion":"Ciudad del sol",
+        "telefono":"09679327261",
+        "correo":"eliasmieles@gmail.com",
+        "curso":"Primer Semestre",
+        "paralelo":"B"
+    },
+
+    {
+        "id":9,
+        "cedula":"1315591683",
+        "nombre":"David Carreño",
+        "direccion":"Av.24 calle 11",
+        "telefono":"0989456324",
+        "correo":"davidcarre@gmail.com<",
+        "curso":"Cuarto Semestre",
+        "paralelo":"A"
+    },
+
+    {
+        "id":10,
+        "cedula":"1632124567",
+        "nombre":"Marco Moreira",
+        "direccion":"Calle siempre viva",
+        "telefono":"0987654329",
+        "correo":"marcomoreira@gmail.com",
+        "curso":"Segundo Semestre",
+        "paralelo":"C"
+    }
+
+]

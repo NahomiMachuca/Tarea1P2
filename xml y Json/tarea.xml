@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE estudiantes SYSTEM "estudiantes.dtd">
+<estudiantes>
+
+<estudiante id="1">
+
+<cedula>1316281136</cedula>
+<nombre>Nahomi Machuca</nombre>
+<direccion>Av.15 entre calles 13 y 14</direccion>
+<telefono>0983337459</telefono>
+<correo>nahomimachuca@gmail.com</correo>
+<curso> Quinto Semestre</curso>
+<paralelo>"A"</paralelo>
+
+</estudiante>
+
+<estudiante id="2">
+
+<cedula>1312435546</cedula>
+<nombre>Joshua Machuca</nombre>
+<direccion>Av.15 entre calles 13 y 14</direccion>
+<telefono>0998984327</telefono>
+<correo>joshuamachuca@gmail.com</correo>
+<curso>Primer Semestre</curso>
+<paralelo>"C"</paralelo>
+
+</estudiante>
+
+<estudiante id="3">
+
+<cedula>1322198786</cedula>
+<nombre>Mike Avalos</nombre>
+<direccion>Barrio 5 de junio</direccion>
+<telefono>0998712342</telefono>
+<correo>mike@gmail.com</correo>
+<curso>Cuarto Semestre</curso>
+<paralelo>"A"</paralelo>
+
+</estudiante>
+
+<estudiante id="4">
+
+<cedula>1398743321</cedula>
+<nombre>Melany Loor</nombre>
+<direccion>Ciudadela los Electricos</direccion>
+<telefono>0996364585</telefono>
+<correo>melanyloor@gmail.com</correo>
+<curso> Quinto Semestre</curso>
+<paralelo>"A"</paralelo>
+
+</estudiante>
+
+<estudiante id="5">
+
+<cedula>1309589776</cedula>
+<nombre>Matias Zamora</nombre>
+<direccion>Los Gavilanes</direccion>
+<telefono>0995423985</telefono>
+<correo>matiasz@gmail.com</correo>
+<curso>Quinto Semestre</curso>
+<paralelo>"A"</paralelo>
+
+</estudiante>
+
+<estudiante id="6">
+
+<cedula>1132786546</cedula>
+<nombre>Hector Fernandez</nombre>
+<direccion>Ciudadela terrazas del conde</direccion>
+<telefono>0987642351</telefono>
+<correo>hectorFer@gmail.com</correo>
+<curso>Quinto Semestre</curso>
+<paralelo>"B"</paralelo>
+
+</estudiante>
+
+<Estudiante id="7">
+
+<cedula>1321786542</cedula>
+<nombre>Cesar Catagua</nombre>
+<direccion>Calle 13</direccion>
+<telefono>0991324573</telefono>
+<correo>cesarcatagua@gmail.com</correo>
+<curso>Quinto Semestre</curso>
+<paralelo>"A"</paralelo>
+
+</estudiante>
+
+<estudiante id="8">
+
+<cedula>1395622678</cedula>
+<nombre>Elias Mieles</nombre>
+<direccion>Ciudad del sol</direccion>
+<telefono>0967932726</telefono>
+<correo>eliasmieles@gmail.com</correo>
+<curso>Primer Semestre</curso>
+<paralelo>"B"</paralelo>
+
+</estudiante>
+
+<estudiante id="9">
+
+<cedula>1315591683</cedula>
+<nombre>David Carreño</nombre>
+<direccion>Av.24 calle 11 </direccion>
+<telefono>0989456324</telefono>
+<correo>davidcarre@gmail.com</correo>
+<curso>Cuarto Semestre</curso>
+<paralelo>"A"</paralelo>
+
+</estudiante>
+
+<estudiante id="10">
+
+<cedula>1632124567</cedula>
+<nombre>Marco Moreira</nombre>
+<direccion>Calle siempre viva</direccion>
+<telefono>0987654329</telefono>
+<correo>marcomoreira@gmail.com</correo>
+<curso>Segundo Semestre</curso>
+<paralelo>"C"</paralelo>
+
+</estudiante>
+
+</estudiantes>
